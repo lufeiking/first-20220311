@@ -1,0 +1,11 @@
+diff a/会议纪要0316.txt b/会议纪要0316.txt	(rejected hunks)
+@@ -4,4 +4,6 @@
+ 
+ Faker大魔王
+ 
+-张三，李四，王五，赵六，田七
+\ No newline at end of file
++张三，李四，王五，赵六，田七
++
++我是主分支
+\ No newline at end of file
